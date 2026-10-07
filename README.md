@@ -1,4 +1,4 @@
-# Ingenieria-en-software-1
+# Sistema de control de inventario
 
 Sistema de control de inventario con arquitectura híbrida (offline-first) desarrollado para optimizar los procesos de recepción, trazabilidad y gestión de stock en tiempo real.
 
