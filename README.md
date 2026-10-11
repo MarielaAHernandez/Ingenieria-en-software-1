@@ -55,6 +55,29 @@ Cada capa solo se comunica con la inmediatamente inferior, lo que facilita el ma
 
 ---
 
+## Herramientas utilizadas
+
+* **Lenguaje y plataforma:** C# / .NET 8
+* **Frontend:** aplicación de escritorio .NET 8
+* **Backend:** .NET 8 Web API
+* **Base de datos:** SQL Server (servidor local con respaldo en la nube)
+* **Gestión del proyecto:** GitHub Projects (tablero Kanban) con metodología Ágil (Scrum), sprints de 2 semanas
+* **Control de versiones:** Git y GitHub
+
+---
+
+## Equipo y Roles
+
+**Mariela Avelino Hernández**
+
+* Scrum Master
+* Analista de Requerimientos
+* Arquitecto de Software y Administrador de BD
+* Desarrollador Backend y Frontend (.NET 8)
+* Diseñador UI y QA
+  
+---
+
 ## Organización Frontend / Backend
 
 ### Frontend (aplicación de escritorio, .NET 8)
