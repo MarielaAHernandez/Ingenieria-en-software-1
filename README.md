@@ -100,3 +100,27 @@ Cada capa solo se comunica con la inmediatamente inferior, lo que facilita el ma
 * Gestionar el acceso a la base de datos SQL Server.
 * Generar los reportes automáticos.
 * Ejecutar el servicio de sincronización entre el servidor local y el respaldo en la nube.
+
+## Comunicación entre frontend y backend
+
+El frontend (aplicación de escritorio .NET 8) nunca accede directamente a la base de datos. Envía peticiones HTTP/REST al backend (.NET 8 Web API) con datos en formato JSON; el backend aplica las reglas de negocio, consulta o registra en SQL Server y responde con los resultados o mensajes de error. Cuando no hay conexión, el frontend guarda las operaciones pendientes y las envía al backend al recuperarse la conexión; después, el servicio de sincronización replica los datos entre el servidor local y el respaldo en la nube.
+
+---
+
+## Estado actual del proyecto
+
+**Versión actual:** v1 completada; v1.2 implementada y en fase de pruebas (En Revisión).
+
+| Etapa | Estado |
+| --- | --- |
+| Planificación visual de la interfaz y requerimientos técnicos | Finalizado |
+| Diseño de prototipo visual y validación con el cliente | Finalizado |
+| Definición de arquitectura inicial | Finalizado |
+| Diseño de base de datos relacional | Finalizado |
+| Implementación de requerimientos básicos y codificación v1 | Finalizado |
+| Maquetación del frontend | Finalizado |
+| Historias de usuario HU-01 a HU-06 | Finalizado |
+| Pruebas de funcionamiento y errores (v1) | Finalizado |
+| Implementación de requerimientos y codificación v1.2 | Finalizado |
+| Pruebas de funcionamiento y errores v1.2 | En Revisión |
+
