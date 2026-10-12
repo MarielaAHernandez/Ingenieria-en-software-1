@@ -41,7 +41,7 @@ Basadas en las historias de usuario del proyecto:
 
 ## Arquitectura seleccionada
 
-**Arquitectura en capas (Layered Architecture)** con enfoque **híbrido / offline-first**.
+**Arquitectura en capas
 
 | Capa | Responsabilidad |
 |------|-----------------|
