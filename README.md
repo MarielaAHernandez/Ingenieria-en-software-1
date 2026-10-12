@@ -41,7 +41,7 @@ Basadas en las historias de usuario del proyecto:
 
 ## Arquitectura seleccionada
 
-**Arquitectura en capas
+Arquitectura en capas
 
 | Capa | Responsabilidad |
 |------|-----------------|
