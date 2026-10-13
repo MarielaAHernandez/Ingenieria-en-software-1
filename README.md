@@ -108,7 +108,7 @@ El frontend (aplicación de escritorio .NET 8) nunca accede directamente a la ba
 
 ## Estado actual del proyecto
 
-**Versión actual:** v1 completada; v1.2 implementada y en fase de pruebas (En Revisión).
+**Versión actual:** v1 completada, v1.2 Completada.
 
 | Etapa | Estado |
 | --- | --- |
