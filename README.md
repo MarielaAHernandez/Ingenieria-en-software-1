@@ -62,7 +62,6 @@ Cada capa solo se comunica con la inmediatamente inferior, lo que facilita el ma
 * **Backend:** .NET 8 Web API
 * **Base de datos:** SQL Server (servidor local con respaldo en la nube)
 * **Gestión del proyecto:** GitHub Projects (tablero Kanban) con metodología Ágil (Scrum), sprints de 2 semanas
-* **Control de versiones:** Git y GitHub
 
 ---
 
