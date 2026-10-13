@@ -121,5 +121,5 @@ El frontend (aplicación de escritorio .NET 8) nunca accede directamente a la ba
 | Historias de usuario HU-01 a HU-06 | Finalizado |
 | Pruebas de funcionamiento y errores (v1) | Finalizado |
 | Implementación de requerimientos y codificación v1.2 | Finalizado |
-| Pruebas de funcionamiento y errores v1.2 | En Revisión |
+| Pruebas de funcionamiento y errores v1.2 | Finalizado  |
 
